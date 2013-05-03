@@ -1,2 +1,4 @@
-==SJWC Test Repository==
+SJWC Test Repository
+====================
+
 Contains sample data
